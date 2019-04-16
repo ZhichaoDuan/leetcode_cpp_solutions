@@ -1,6 +1,6 @@
 ## Problem List
-| Problem Name | Id |Difficulty| Status |
-| --- | --- | ---|---|
+|Problem Name | Id |Difficulty| Status |
+|---|---| ---|---|
 |Two Sum|1|Easy|**Solved**|
 |Letter Combinations of a Phone Number  |17|Medium|**Solved**|
 |Remove Nth Node From End of List  |19|Medium|**Solved**|
