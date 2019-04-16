@@ -7,7 +7,6 @@
 |Valid Parentheses |20|Easy|**Solved**|
 |Merge Two Sorted Lists|21|Easy|**Solved**|
 |Generate Parentheses|22|Medium|**Solved**|
-<<<<<<< HEAD
 |Merge k Sorted Lists|23|Hard|**Solved**|
 |Swap Nodes in Pairs|24|Medium|**Solved**|
 |Reverse Nodes in k-Group|25|Hard|**Solved**|
@@ -16,12 +15,6 @@
 |Search in Rotated Sorted Array|33|Medium|**Solved**|
 |Combination Sum II |40|Medium|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
-=======
-|Swap Nodes in Pairs|24|Medium|**Solved**|
-|Reverse Nodes in k-Group|25|Hard|**Solved**|
-|Remove Duplicates from Sorted Array|26|Easy|**Solved**|
-|Combination Sum II |40|Medium|**Solved**|
->>>>>>> 079586e6a2dac66da5b0f7ff4f31863149499e9a
 |N-Queens|51|Hard|**Solved**|
 |Jump Game|55|Medium|**Solved**|
 |Subsets |78|Medium|**Solved**|
@@ -42,10 +35,7 @@
 |Implement Queue using Stacks|232|Easy|**Solved**|
 |Lowest Common Ancestor of a Binary Tree|236|Medium|**Solved**|
 |Sliding Window Maximum|239|Hard|**Solved**|
-<<<<<<< HEAD
 |Valid Anagram|242|Easy|**Solved**|
-=======
->>>>>>> 079586e6a2dac66da5b0f7ff4f31863149499e9a
 |Count of Smaller Numbers After Self|315|Hard|**Solved**|
 |Wiggle Subsequence|376|Medium|**Solved**|
 |Remove K Digits|402|Medium|**Solved**|
