@@ -13,6 +13,9 @@
 |Remove Duplicates from Sorted Array|26|Easy|**Solved**|
 |Divide Two Integers|29|Easy|**Solved**|
 |Search in Rotated Sorted Array|33|Medium|**Solved**|
+|Find First and Last Position of Element in Sorted Array|34|Medium|**Solved**|
+|Valid Sudoku|36|Medium|**Solved**|
+|Count and Say|38|Easy|**Solved**|
 |Combination Sum II |40|Medium|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
 |N-Queens|51|Hard|**Solved**|
