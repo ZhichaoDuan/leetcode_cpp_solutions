@@ -17,6 +17,7 @@
 |Valid Sudoku|36|Medium|**Solved**|
 |Count and Say|38|Easy|**Solved**|
 |Combination Sum II |40|Medium|**Solved**|
+|First Missing Positive|41|Hard|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
 |N-Queens|51|Hard|**Solved**|
 |Jump Game|55|Medium|**Solved**|
