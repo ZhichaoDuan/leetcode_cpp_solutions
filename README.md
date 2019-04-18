@@ -26,6 +26,7 @@
 |Group Anagrams|49|Medium|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
 |N-Queens|51|Hard|**Solved**|
+|Spiral Matrix|54|Medium|**Solved**|
 |Jump Game|55|Medium|**Solved**|
 |Subsets |78|Medium|**Solved**|
 |Partition List |86|Medium|**Solved**|
