@@ -21,6 +21,9 @@
 |First Missing Positive|41|Hard|**Solved**|
 |Trapping Rain Water|42|Hard|**Solved**|
 |Wildcard Matching|44|Hard|**Solved**|
+|Permutations|46|Medium|**Solved**|
+|Rotate Image|48|Medium|**Solved**|
+|Group Anagrams|49|Medium|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
 |N-Queens|51|Hard|**Solved**|
 |Jump Game|55|Medium|**Solved**|
