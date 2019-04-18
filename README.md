@@ -2,6 +2,7 @@
 |Problem Name | Id |Difficulty| Status |
 |---|---| ---|---|
 |Two Sum|1|Easy|**Solved**|
+|Regular Expression Matching|10|Hard|**Solved**|
 |Letter Combinations of a Phone Number  |17|Medium|**Solved**|
 |Remove Nth Node From End of List  |19|Medium|**Solved**|
 |Valid Parentheses |20|Easy|**Solved**|
@@ -18,6 +19,8 @@
 |Count and Say|38|Easy|**Solved**|
 |Combination Sum II |40|Medium|**Solved**|
 |First Missing Positive|41|Hard|**Solved**|
+|Trapping Rain Water|42|Hard|**Solved**|
+|Wildcard Matching|44|Hard|**Solved**|
 |Pow(x, n)|50|Medium|**Solved**|
 |N-Queens|51|Hard|**Solved**|
 |Jump Game|55|Medium|**Solved**|
