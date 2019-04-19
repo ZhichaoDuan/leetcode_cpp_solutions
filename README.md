@@ -28,6 +28,10 @@
 |N-Queens|51|Hard|**Solved**|
 |Spiral Matrix|54|Medium|**Solved**|
 |Jump Game|55|Medium|**Solved**|
+|Merge Intervals|56|Medium|**Solved**|
+|Unique Paths|62|Medium|**Solved**|
+|Plus One|66|Easy|**Solved**|
+|Sqrt(x)|69|Easy|**Solved**|
 |Subsets |78|Medium|**Solved**|
 |Partition List |86|Medium|**Solved**|
 |Subsets II|90|Medium|**Solved**|
