@@ -32,10 +32,18 @@
 |Unique Paths|62|Medium|**Solved**|
 |Plus One|66|Easy|**Solved**|
 |Sqrt(x)|69|Easy|**Solved**|
+|Set Matrix Zeroes|73|Medium|**Solved**|
+|Sort Colors|75|Medium|**Solved**|
+|Minimum Window Substring|76|Hard|**Solved**|
 |Subsets |78|Medium|**Solved**|
+|Word Search|79|Medium|**Solved**|
+|Largest Rectangle in Histogram|84|Hard|**Solved**|
 |Partition List |86|Medium|**Solved**|
+|Merge Sorted Array|88|Easy|**Solved**|
 |Subsets II|90|Medium|**Solved**|
+|Decode Ways|91|Medium|**Solved**|
 |Reverse Linked List II|92|Medium|**Solved**|
+|Binary Tree Inorder Traversal|94|Medium|**Solved**|
 |Path Sum II|113|Medium|**Solved**|
 |Word Ladder|127|Medium|**Solved**|
 |Copy List with Random Pointer|138|Medium|**Solved**|
