@@ -44,6 +44,8 @@
 |Decode Ways|91|Medium|**Solved**|
 |Reverse Linked List II|92|Medium|**Solved**|
 |Binary Tree Inorder Traversal|94|Medium|**Solved**|
+|Binary Tree Level Order Traversal|102|Medium|**Solved**|
+|Binary Tree Zigzag Level Order Traversal|103|Medium|**Solved**|
 |Path Sum II|113|Medium|**Solved**|
 |Word Ladder|127|Medium|**Solved**|
 |Copy List with Random Pointer|138|Medium|**Solved**|
