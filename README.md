@@ -43,11 +43,23 @@
 |Subsets II|90|Medium|**Solved**|
 |Decode Ways|91|Medium|**Solved**|
 |Reverse Linked List II|92|Medium|**Solved**|
+|Restore IP Addresses|93|Medium|**Solved**|
 |Binary Tree Inorder Traversal|94|Medium|**Solved**|
+|Symmetric Tree|101|Easy|**Solved**|
 |Binary Tree Level Order Traversal|102|Medium|**Solved**|
 |Binary Tree Zigzag Level Order Traversal|103|Medium|**Solved**|
+|Maximum Depth of Binary Tree|104|Easy|**Solved**|
 |Path Sum II|113|Medium|**Solved**|
+|Populating Next Right Pointers in Each Node|116|Medium|**Solved**|
+|Pascal's Triangle|118|Easy|**Solved**|
+|Best Time to Buy and Sell Stock|121|Easy|**Solved**|
+|Best Time to Buy and Sell Stock II|122|Easy|**Solved**|
+|Binary Tree Maximum Path Sum|124|Hard|**Solved**|
+|Valid Palindrome|125|Easy|**Solved**|
 |Word Ladder|127|Medium|**Solved**|
+|Longest Consecutive Sequence|128|Hard|**Solved**|
+|Surrounded Regions|130|Medium|**Solved**|
+|Palindrome Partitioning|131|Medium|**Solved**|
 |Copy List with Random Pointer|138|Medium|**Solved**|
 |Linked List Cycle|141|Easy|**Solved**|
 |Linked List Cycle II|142|Medium|**Solved**|
