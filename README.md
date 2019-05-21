@@ -60,14 +60,28 @@
 |Longest Consecutive Sequence|128|Hard|**Solved**|
 |Surrounded Regions|130|Medium|**Solved**|
 |Palindrome Partitioning|131|Medium|**Solved**|
+|Gas Station|134|Medium|**Solved**|
+|Single Number|136|Easy|**Solved**|
 |Copy List with Random Pointer|138|Medium|**Solved**|
-|Linked List Cycle|141|Easy|**Solved**|
+|Word Break|139|Medium|**Solved**|
+|Linked List Cycle|140|Hard|**Solved**|
+|Word Break II|141|Easy|**Solved**|
 |Linked List Cycle II|142|Medium|**Solved**|
+|LRU Cache|146|Hard|**Solved**|
+|Sort List|148|Medium|**Solved**|
+|Max Points on a Line|149|Hard|**Solved**|
+|Evaluate Reverse Polish Notation|150|Easy|**Solved**|
+|Maximum Product Subarray|152|Medium|**Solved**|
 |Min Stack|155|Easy|**Solved**|
 |Intersection of Two Linked Lists|160|Easy|**Solved**|
+|Majority Element|169|Easy|**Solved**|
+|Excel Sheet Column Number|171|Easy|**Solved**|
+|Rotate Array|189|Easy|**Solved**|
 |Number of Islands|200|Medium|**Solved**|
+|Happy Number|202|Easy|**Solved**|
 | Reverse Linked List|206|Easy|**Solved**|
 |Course Schedule |207|Medium|**Solved**|
+|Contains Duplicate|217|Easy|**Solved**|
 |Implement Stack using Queues|225|Easy|**Solved**|
 |Implement Queue using Stacks|232|Easy|**Solved**|
 |Lowest Common Ancestor of a Binary Tree|236|Medium|**Solved**|

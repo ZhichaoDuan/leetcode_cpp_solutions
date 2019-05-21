@@ -27,3 +27,12 @@ void showList(ListNode *l) {
     l=l->next;
   }
 }
+
+template<typename T>
+vector<T> arrayToVector(T* arr, int n) {
+    vector<T> v;
+    for (size_t i = 0; i < n; i++) {
+        v.push_back(arr[i]);
+    }
+    return v;
+}
