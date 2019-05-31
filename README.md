@@ -81,6 +81,8 @@
 |Happy Number|202|Easy|**Solved**|
 | Reverse Linked List|206|Easy|**Solved**|
 |Course Schedule |207|Medium|**Solved**|
+|Word Search II|212|Hard|**Solved**|
+|Kth Largest Element in an Array|215|Medium|**Solved**|
 |Contains Duplicate|217|Easy|**Solved**|
 |Implement Stack using Queues|225|Easy|**Solved**|
 |Implement Queue using Stacks|232|Easy|**Solved**|
