@@ -79,6 +79,7 @@
 |Rotate Array|189|Easy|**Solved**|
 |Number of Islands|200|Medium|**Solved**|
 |Happy Number|202|Easy|**Solved**|
+|Count Primes|204|Easy|**Solved**|
 | Reverse Linked List|206|Easy|**Solved**|
 |Course Schedule |207|Medium|**Solved**|
 |Implement Trie (Prefix Tree)|208|Medium|**Solved**|
