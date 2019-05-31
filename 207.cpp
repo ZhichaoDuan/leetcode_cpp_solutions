@@ -1,47 +1,53 @@
-struct GraphNode{
-	int label;
-	std::vector<GraphNode *> neighbors;
-	GraphNode(int x) : label(x) {};
-};
-bool DFS_graph(GraphNode *node, std::vector<int> &visit){
-	visit[node->label] = 0;
-	for (int i = 0; i < node->neighbors.size(); i++){
-		if (visit[node->neighbors[i]->label] == -1){
-			if (DFS_graph(node->neighbors[i], visit) == 0){
-				return false;
-			}
-		}
-		else if (visit[node->neighbors[i]->label] == 0){
-			return false;
-		}
-	}
-	visit[node->label] = 1;
-	return true;
-}
-
-class Solution {
+#include "bits/stdc++.h"
+using namespace std;
+class Solution
+{
 public:
-    bool canFinish(int numCourses,
-		std::vector<std::pair<int, int> >& prerequisites) {
-		std::vector<GraphNode*> graph;
-		std::vector<int> visit;
-		for (int i = 0; i < numCourses; i++){
-			graph.push_back(new GraphNode(i));
-			visit.push_back(-1);
+	bool canFinish(int numCourses, vector<vector<int>> &prerequisites)
+	{
+		vector<int> in_degree(numCourses, 0);
+		if (prerequisites.size() == 0)
+			return true;
+		unordered_map<int, vector<int>> graph;
+		for (int i = 0; i < prerequisites.size(); i++)
+		{
+			in_degree[prerequisites[i][0]]++;
+			graph[prerequisites[i][1]].push_back(prerequisites[i][0]);
 		}
-		for (int i = 0; i < prerequisites.size(); i++){
-			GraphNode *begin = graph[prerequisites[i].second];
-			GraphNode *end = graph[prerequisites[i].first];
-			begin->neighbors.push_back(end);
+		
+
+		queue<int> Q;
+		for (int i = 0; i < numCourses; i++)
+		{
+			if (in_degree[i] == 0)
+				Q.push(i);
 		}
-		for (int i = 0; i < graph.size(); i++){
-			if (visit[i] == -1 && !DFS_graph(graph[i], visit)){
-				return false;
+
+		while (!Q.empty())
+		{
+			int course = Q.front();
+			Q.pop();
+			vector<int> v = graph[course];
+			for (int i = 0; i < v.size(); i++)
+			{
+				if (--in_degree[v[i]] == 0)
+					Q.push(v[i]);
 			}
 		}
-		for (int i = 0; i < numCourses; i++){
-			delete graph[i];
+		for (int d : in_degree)
+		{
+			if (d!=0)
+				return false;
 		}
 		return true;
-    }
+	}
 };
+
+int main(int argc, char const *argv[])
+{
+	int numCourses = 2;
+	vector<vector<int>> pre{{1,0}};
+	Solution sol;
+	cout<<sol.canFinish(numCourses, pre);
+	return 0;
+}
